@@ -5,15 +5,15 @@ The goal for this  project is to create a Maze generator using Kruskal's algorit
 <table>
   <tr>
     <td>
-      <img width="518" alt="Screenshot" src="https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/069cf0d4-8bb7-4af4-be9b-6adb168c4d5a">
+      <img width="518" alt="Screenshot" src="(https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/8c61285f-a27e-4511-ab5b-1b00f0f2fc72">
     </td>
     <td>
-      <img alt="GIF" src="https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/81fcac15-2e6b-42e5-a2f1-0e35e088fecd">
+      <img alt="GIF" src="https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/4f489115-204f-4ea9-b814-3148bac9905f">
     </td>
   </tr>
 </table>
 
-# How It's Made
+# How It's Made!
 Java, IntelliJ
 
 # Key Functions
