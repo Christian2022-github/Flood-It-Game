@@ -4,8 +4,7 @@ The goal for this  project is to create a Maze generator using Kruskal's algorit
 
 <table>
   <tr>
-    <td>
-      <img width="518" alt="Screenshot" src="(https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/8c61285f-a27e-4511-ab5b-1b00f0f2fc72">
+    <td><img width="497" alt="Screenshot 2023-11-05 at 2 09 46 PM" src="https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/41a2c0d2-a398-453f-ad95-90eb1e3eaa98">
     </td>
     <td>
       <img alt="GIF" src="https://github.com/Christian2022-github/Flood-It-Game/assets/71617970/4f489115-204f-4ea9-b814-3148bac9905f">
